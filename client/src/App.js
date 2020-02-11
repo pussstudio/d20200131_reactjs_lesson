@@ -85,10 +85,6 @@ class App extends Component {
         </Table>
         
 
-
-
-
-
       </Paper>
      
     );
